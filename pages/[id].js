@@ -34,7 +34,7 @@ function NFT({ nft, title }) {
   return (
     <>
       <div
-        className="flex flex-col items-center justify-center 
+        className="flex flex-col items-center justify-center
       min-h-screen bg-gray-100"
       >
         <NextSeo
@@ -62,7 +62,7 @@ function NFT({ nft, title }) {
         </div>
 
         <main
-          className="flex flex-col items-center justify-center 
+          className="flex flex-col items-center justify-center
         w-full flex-1 p-2 rounded-lg text-center mb-8 max-w-xl"
         >
           <div className="justify-center p-4 shadow-xl rounded-md bg-white">
@@ -77,7 +77,7 @@ function NFT({ nft, title }) {
               </span>
             </div>
             <div className="py-4 px-2 w-full rounded-md text-lg mt-4 bg-[#a0c2ea] text-[#202520]">
-              Ranking Score: {nft.rarity_score.toFixed(2)} ⏾
+              Ranking Score: {nft.rarity_score.toFixed(2)} ⍟
             </div>
             {nft.current_price !== "-" && (
               <div className="py-4 px-2 w-full rounded-md text-lg mt-4 bg-green-100 text-[#575b57]">
