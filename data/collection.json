@@ -314,7 +314,7 @@
                      ],
       "image":  "ipfs://Qme5s6aP17QVcJScDEeoPeEbXrAU279TRC7Vn3gReE9PUG/2052.png"
   },
-  
+
   {
       "id":  null,
       "dna":  "83e51d71af05689cadeed67e5463d4cfbb01dd4a",
@@ -4840,23 +4840,23 @@
       "attributes":  [
                          {
                              "trait_type":  "Background",
-                             "value":  "Clouds"
+                             "value":  "Big Moon"
                          },
                          {
                              "trait_type":  "Outfit",
-                             "value":  "Tracksuit Pink"
+                             "value":  "T Shirt Rainbow"
                          },
                          {
                              "trait_type":  "Eyes",
-                             "value":  "Wink"
+                             "value":  "Glasses Rainbow"
                          },
                          {
                              "trait_type":  "Head",
-                             "value":  "Beret Black"
+                             "value":  "Rainbow"
                          },
                          {
                              "trait_type":  "Mouth",
-                             "value":  "Happy"
+                             "value":  "Rainbow"
                          },
                          {
                              "trait_type":  "Extra",
