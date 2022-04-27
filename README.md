@@ -72,7 +72,7 @@ nvm use v16.13.0
 
 [Reference for SEO](https://www.heymeta.com/url/odp-rarity.vercel.app)
 
-4. Running it locally to be able to see it in your browser at [localhost:3000](localhost:3000)
+5. Running it locally to be able to see it in your browser at [localhost:3000](localhost:3000)
 
 ```
 yarn run dev
