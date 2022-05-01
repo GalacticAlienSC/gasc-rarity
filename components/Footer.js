@@ -6,6 +6,7 @@ import { GiSailboat } from "react-icons/gi";
 export const Footer = () => {
   return (
     <div className="flex flex-col border-t-1 border w-full p-4 mt-4 items-center text-xs justify-center">
+    
       <a
         className="flex items-center mb-4 text-[#202520] hover:text-[#575b57]"
         href="https://twitter.com/GalacticAlienSC"
