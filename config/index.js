@@ -5,6 +5,6 @@ export const config = {
   COLLECTION_NAME: "Galactic Alien Social Club",
   COLLECTION_TITLE: "Galactic Alien Social Club · Rarity Ranking",
   COLLECTION_DESCRIPTION: 'Galactic Alien Social Club · Rarity Ranking',
-  COLLECTION_IMG_LINK: "https://pbs.twimg.com/profile_banners/1455066575036293125/1645074885/1500x500",
+  COLLECTION_IMG_LINK: "https://raw.githubusercontent.com/GalacticAlienSC/gasc-rarity/main/Twitter%20Cover%20Art%20Lore%20Logo%20Rarity%20Ranking.png",
   STARTING_INDEX: 0,
 };
