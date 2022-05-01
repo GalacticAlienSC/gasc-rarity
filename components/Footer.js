@@ -1,6 +1,7 @@
 import React from "react";
 import { FiCoffee } from "react-icons/fi";
 import { IoLogoGithub, IoLogoTwitter } from "react-icons/io";
+import { GiSailboat } from "react-icons/gi";
 
 export const Footer = () => {
   return (
@@ -15,8 +16,18 @@ export const Footer = () => {
         </span>
         Twitter
       </a>
-     
-      
+
+      <a
+        className="flex items-center mb-4 text-[#202520] hover:text-[#575b57]"
+        href="https://opensea.io/collection/galacticaliensocialclub"
+        target="_blank"
+      >
+        <span className="text-lg mr-1">
+          <GiSailboat />
+        </span>
+        OpenSea
+      </a>
+
     </div>
   );
 };
