@@ -2,7 +2,7 @@ import React from "react";
 import { FiCoffee } from "react-icons/fi";
 import { IoLogoGithub, IoLogoTwitter } from "react-icons/io";
 import { GiSailboat } from "react-icons/gi";
-import { FaDiscord } from "react-icons/fa";
+import { SiDiscord } from "react-icons/si";
 import { RiAliensFill } from "react-icons/ri";
 import { GoEye } from "react-icons/go";
 
@@ -48,7 +48,7 @@ export const Footer = () => {
         target="_blank"
       >
         <span className="text-lg mr-1">
-          <FaDiscord />
+          <SiDiscord />
         </span>
         Discord
       </a>
