@@ -21,7 +21,7 @@ export const Footer = () => {
       </a>
       </td>
       <td>
-      <p>&nbsp &nbsp &nbsp</p>
+      <p>   </p>
       </td>
       <td>
       <a
