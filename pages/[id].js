@@ -73,7 +73,7 @@ function NFT({ nft, title }) {
                 className="absolute top-5 right-5
               text-[#202520] px-2 py-2 font-medium text-xs rounded-md bg-[#ffffff]"
               >
-              Alien #{nft.rarity_rank + 1}
+              Rank #{nft.rarity_rank + 1}
               </span>
             </div>
             <div className="py-4 px-2 w-full rounded-md text-lg mt-4 bg-[#a0c2ea] text-[#202520]">
