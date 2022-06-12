@@ -22,7 +22,7 @@ export const Search = (props) => {
       <DebounceInput
         minLength={2}
         debounceTimeout={300}
-        className="bg-[#d0e8f5] p-2 hover:bg-[#e7f0fa] rounded-md w-full text-xs"
+        className="bg-[#d0e8f5] outline-[#95aedf] p-2 hover:bg-[#e7f0fa] rounded-md w-full text-xs"
         placeholder="🔍  Search by Token ID (e.g. 1337)"
         onChange={handleChange}
       />
