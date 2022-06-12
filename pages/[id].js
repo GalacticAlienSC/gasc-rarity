@@ -79,6 +79,9 @@ function NFT({ nft, title }) {
             <div className="py-4 px-2 w-full rounded-md text-lg mt-4 bg-[#a0c2ea] text-[#202520]">
               Ranking Score: {nft.rarity_score.toFixed(2)} ✪
             </div>
+            <div className="py-4 px-2 w-full rounded-md text-lg mt-4 bg-[#a0c2ea] text-[#202520]">
+              Ranking Score: {nft.rarity_score.toFixed(2)} ✪
+            </div>
             {nft.current_price !== "-" && (
               <div className="py-4 px-2 w-full rounded-md text-lg mt-4 bg-green-100 text-[#575b57]">
                 <span>{`Ξ ${formatPrice(nft?.current_price)}`}</span>
